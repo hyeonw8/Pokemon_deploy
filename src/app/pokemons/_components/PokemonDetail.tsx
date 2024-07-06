@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { typeColors } from "./PokemonMoveColor";
-// import Image from "next/image";
 
 import type { Colors, Pokemon } from "@/types/Pokemon.type";
 

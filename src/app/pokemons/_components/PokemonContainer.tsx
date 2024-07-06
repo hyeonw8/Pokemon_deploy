@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React from "react";
 import axios, { AxiosError } from "axios";
 import PokemonList from "@/app/pokemons/_components/PokemonList";
 
